@@ -4,4 +4,4 @@ date: 2025-10-06
 tags: []
 ---
 
-My mental models for understanding AI research works.
+My mental models for understanding AI research papers.
