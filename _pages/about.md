@@ -19,7 +19,7 @@ I'm currently a Staff Research Engineer at [DIDI's Autonomous Driving](https://w
   {% include archive-single.html %}
 {% endfor %}
 
-[See all posts →]({{ '/blog/' | relative_url }})
+[see all posts →]({{ '/blog/' | relative_url }})
 
 ## Portfolio
 
