@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jie's Research Blog"
+title                    : "Jie's Research Hub"
 title_separator          : "-"
 name                     : &name "Jie Ruan"
 description              : &description "Jie Ruan's Personal Website and Research Blog."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -31,6 +31,7 @@ author:
   employer         : "University of Southern California"
   uri              : # URL
   email            : "jieruan02@gmail.com" 
+  linkedin         : jie-ruan-551182b5 # Username
 
   # Academic websites
   academia         : # URL
@@ -63,7 +64,6 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : jie-ruan-551182b5 # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
