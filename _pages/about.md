@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Staff Research Engineer in Autonomous Driving and interested in Robotics AI systems. I start this blog to share my understanding of AI research and learn from others.
+I'm interested in embodied AI and this blog shares my understanding of associated research.
+
+I'm a staff research engineer in DiDi Research (autonomous driving) and was a research scientist at Meta. Before that I obtained my Ph.D. in applied math from University of Southern California under the supervision of [Jianfeng Zhang](https://dornsife.usc.edu/jianfeng-zhang/), and Bachelor in math from Fudan University.
 
 Research Blog
 ======
