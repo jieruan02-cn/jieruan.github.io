@@ -9,7 +9,7 @@ redirect_from:
 
 I'm interested in embodied AI. This hub shares my research notes and projects.
 
-I'm currently a Staff Research Engineer at [DIDI's Autonomous Driving](https://www.didiglobal.com/science/intelligent-driving). Previously, I was a research scientist and enginner at Meta and Google, and completed my PhD in applied math from USC under Prof. [Jianfeng Zhang](https://dornsife.usc.edu/jianfeng-zhang/).
+I'm currently a Staff Research Engineer at [DIDI Autonomous Driving](https://www.didiglobal.com/science/intelligent-driving). Before that, I was a research scientist and enginner at Meta and Google, and completed my PhD in applied math at USC under Prof. [Jianfeng Zhang](https://dornsife.usc.edu/jianfeng-zhang/).
 
 ## Research Notes
 
