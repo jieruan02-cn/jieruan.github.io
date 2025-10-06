@@ -11,24 +11,17 @@ I'm interested in embodied AI. This hub shares my research notes and projects.
 
 I'm currently a Staff Research Engineer at [DIDI's Autonomous Driving](https://www.didiglobal.com/science/intelligent-driving). Previously, I was a research scientist and enginner at Meta and Google, and completed my PhD in applied math from USC under Prof. [Jianfeng Zhang](https://dornsife.usc.edu/jianfeng-zhang/).
 
-Research Notes
-======
+## Research Notes
 
----
-title: 'Mental Models for Artificial Intelligence'
-date: 2025-10-06
-permalink: /posts/2012/08/blog-post-4/
-<!-- tags:
-  - cool posts
-  - category1
-  - category2 -->
----
+{% include base_path %}
 
-My mental models for understanding AI research works.
+{% for post in site.posts limit:5 %}
+  {% include archive-single.html %}
+{% endfor %}
 
+[See all posts →]({{ '/blog/' | relative_url }})
 
-Portfolio
-======
+## Portfolio
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 

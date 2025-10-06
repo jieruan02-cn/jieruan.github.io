@@ -23,7 +23,7 @@ repository               : "jieruan02-cn/jieruan02-cn.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   name             : "Jie Ruan"
   pronouns         : # example: "she/her"  
   bio              : "Math, AI and Robotics"
