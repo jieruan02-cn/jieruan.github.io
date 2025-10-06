@@ -14,6 +14,19 @@ I'm currently a Staff Research Engineer at [DIDI's Autonomous Driving](https://w
 Research Notes
 ======
 
+---
+title: 'Mental Models for Artificial Intelligence'
+date: 2025-10-06
+permalink: /posts/2012/08/blog-post-4/
+<!-- tags:
+  - cool posts
+  - category1
+  - category2 -->
+---
+
+My mental models for understanding AI research works.
+
+
 Portfolio
 ======
 
