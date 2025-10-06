@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm interested in embodied AI and this blog shares my understanding of associated research.
+I'm interested in embodied AI. This blog shares my understanding of related researches.
 
-I'm a staff research engineer in DiDi Research (autonomous driving) and was a research scientist at Meta. Before that I obtained my Ph.D. in applied math from University of Southern California under the supervision of [Jianfeng Zhang](https://dornsife.usc.edu/jianfeng-zhang/), and Bachelor in math from Fudan University.
+I'm a staff research engineer in self-driving at DIDI Research and was a research scientist/enginner at Meta/Google. Before that I obtained my Ph.D. in Applied Math from USC under Prof. [Jianfeng Zhang](https://dornsife.usc.edu/jianfeng-zhang/).
 
 Research Blog
 ======
