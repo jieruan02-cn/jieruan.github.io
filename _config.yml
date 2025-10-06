@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Jie's Homepage"
+title                    : "Jie's Research Blog"
 title_separator          : "-"
 name                     : &name "Jie Ruan"
 description              : &description "Jie Ruan's Personal Website and Research Blog."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/jie-ruan-551182b5/" # Username
+  linkedin         : jie-ruan-551182b5 # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
